@@ -1,0 +1,49 @@
+/* Input vam Levi voor chrome??
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}*/
+main{
+    margin: 24px 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.fruitType{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 250px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+/*label{
+    display: inline;
+    align-items: center;
+}*/
+.resetButton{
+    width: 290px;
+    height: 40px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+form{
+    border: 1px solid black;
+    margin: 24px 0;
+    width: 400px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
